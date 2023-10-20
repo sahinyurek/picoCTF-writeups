@@ -3,7 +3,7 @@
 
 Login via ssh to the launched instance.
 
-```console
+```shell
 ┌──(xodzk㉿kali)-[~]
 └─$ ssh ctf-player@venus.picoctf.net -p 49976
 The authenticity of host '[venus.picoctf.net]:49976 ([3.131.124.143]:49976)' can't be established.
@@ -35,7 +35,7 @@ ctf-player@pico-chall$
 
 Find 1 of 3 flag in the directory. Then check instructions and where you are with pwd.
 
-```console
+```shell
 ctf-player@pico-chall$ ls
 1of3.flag.txt  instructions-to-2of3.txt
 ctf-player@pico-chall$ cat 1of3.flag.txt
@@ -48,7 +48,7 @@ ctf-player@pico-chall$ pwd
 
 Go to root as instructed and find 2 of 3 flag. Check instructions.
 
-```console
+```shell
 ctf-player@pico-chall$ cd ..
 ctf-player@pico-chall$ cd ..
 ctf-player@pico-chall$ cd ..
@@ -63,7 +63,7 @@ Lastly, ctf-player, go home... more succinctly `~`
 
 Go to root to find the 3 of 3 flag.
 
-```console
+```shell
 ctf-player@pico-chall$ cd home
 ctf-player@pico-chall$ ls
 ctf-player
