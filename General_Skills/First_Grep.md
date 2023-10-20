@@ -5,7 +5,7 @@
 
 Retrieve the file using wget.
 
-```bash
+```shell
 ┌──(xodzk㉿kali)-[~]
 └─$ wget https://jupiter.challenges.picoctf.org/static/515f19f3612bfd97cd3f0c0ba32bd864/file
 --2023-10-20 18:01:28--  https://jupiter.challenges.picoctf.org/static/515f19f3612bfd97cd3f0c0ba32bd864/file
@@ -22,7 +22,7 @@ file                                                       100%[================
 
 Check what it is.
 
-```bash
+```shell
 ┌──(xodzk㉿kali)-[~]
 └─$ file file
 file: ASCII text, with very long lines (4200)
@@ -30,7 +30,7 @@ file: ASCII text, with very long lines (4200)
 
 Search for the flag using grep.
 
-```bash
+```shell
 ┌──(xodzk㉿kali)-[~]
 └─$ grep picoCTF file
 picoCTF{grep_is_good_to_find_things_5af9d829}
