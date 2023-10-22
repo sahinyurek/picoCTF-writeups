@@ -3,24 +3,8 @@
 
 
 
-Retrieve the file using wget.
 
-```shell
-┌──(xodzk㉿kali)-[~]
-└─$ wget https://jupiter.challenges.picoctf.org/static/515f19f3612bfd97cd3f0c0ba32bd864/file
---2023-10-20 18:01:28--  https://jupiter.challenges.picoctf.org/static/515f19f3612bfd97cd3f0c0ba32bd864/file
-Resolving jupiter.challenges.picoctf.org (jupiter.challenges.picoctf.org)... 3.131.60.8
-Connecting to jupiter.challenges.picoctf.org (jupiter.challenges.picoctf.org)|3.131.60.8|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 14551 (14K) [application/octet-stream]
-Saving to: ‘file’
-
-file                                                       100%[========================================================================================================================================>]  14.21K  --.-KB/s    in 0s      
-
-2023-10-20 18:01:30 (103 MB/s) - ‘file’ saved [14551/14551]
-```
-
-Check what it is.
+Check what the file is.
 
 ```shell
 ┌──(xodzk㉿kali)-[~]
