@@ -4,20 +4,7 @@
 
 
 
-```shell                                                                                                   
-┌──(xodzk㉿kali)-[~]
-└─$ wget https://mercury.picoctf.net/static/2e54f22211165e9f33a47bdb8a09268b/dds2-alpine.flag.img.gz
---2023-10-22 10:57:55--  https://mercury.picoctf.net/static/2e54f22211165e9f33a47bdb8a09268b/dds2-alpine.flag.img.gz
-Resolving mercury.picoctf.net (mercury.picoctf.net)... 18.189.209.142
-Connecting to mercury.picoctf.net (mercury.picoctf.net)|18.189.209.142|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 29770549 (28M) [application/octet-stream]
-Saving to: ‘dds2-alpine.flag.img.gz’
-
-dds2-alpine.flag.img.gz                                    100%[======================================================================================================================================>]  28.39M  3.70MB/s    in 11s     
-
-2023-10-22 10:58:08 (2.58 MB/s) - ‘dds2-alpine.flag.img.gz’ saved [29770549/29770549]
-       
+```shell                                                                                                        
 ┌──(xodzk㉿kali)-[~]
 └─$ gunzip dds2-alpine.flag.img.gz 
                                                                                                            
