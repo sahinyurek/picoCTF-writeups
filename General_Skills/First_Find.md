@@ -2,22 +2,7 @@
 <img width="617" alt="First_Find_Description" src="https://github.com/sahinyurek/picoCTF-writeups/assets/62119201/3a61497c-5570-495e-99ae-f08c94f4f37d">
 
 
-Retrieve the files using wget.
-
-```shell
-┌──(xodzk㉿kali)-[~]
-└─$ wget https://artifacts.picoctf.net/c/502/files.zip                                      
---2023-10-20 18:14:22--  https://artifacts.picoctf.net/c/502/files.zip
-Resolving artifacts.picoctf.net (artifacts.picoctf.net)... 18.165.61.110, 18.165.61.93, 18.165.61.111, ...
-Connecting to artifacts.picoctf.net (artifacts.picoctf.net)|18.165.61.110|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 3995553 (3.8M) [application/octet-stream]
-Saving to: ‘files.zip’
-
-files.zip                                                  100%[=======================================================================================================================================>]   3.81M  2.37MB/s    in 1.6s    
-
-2023-10-20 18:14:25 (2.37 MB/s) - ‘files.zip’ saved [3995553/3995553]
-```                                                                                                                
+                                                                                                           
 Unzip file
 
 ```shell
