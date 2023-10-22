@@ -4,18 +4,6 @@
 
 
 ```shell
-┌──(xodzk㉿kali)-[~]
-└─$ wget https://artifacts.picoctf.net/c/164/disk.img.gz      
---2023-10-22 09:40:51--  https://artifacts.picoctf.net/c/164/disk.img.gz
-Resolving artifacts.picoctf.net (artifacts.picoctf.net)... 18.165.61.111, 18.165.61.128, 18.165.61.93, ...
-Connecting to artifacts.picoctf.net (artifacts.picoctf.net)|18.165.61.111|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 29714372 (28M) [application/octet-stream]
-Saving to: ‘disk.img.gz’
-
-disk.img.gz                                                100%[======================================================================================================================================>]  28.34M  4.54MB/s    in 7.0s    
-
-2023-10-22 09:41:00 (4.03 MB/s) - ‘disk.img.gz’ saved [29714372/29714372]
 
 ┌──(xodzk㉿kali)-[~]
 └─$ gunzip disk.img.gz
