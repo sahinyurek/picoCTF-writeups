@@ -3,23 +3,6 @@
 
 
 
-Retrieve the file with wget.
-
-```shell
-┌──(xodzk㉿kali)-[~]
-└─$ wget https://artifacts.picoctf.net/c/138/disk.flag.img.gz
---2023-10-22 09:51:25--  https://artifacts.picoctf.net/c/138/disk.flag.img.gz
-Resolving artifacts.picoctf.net (artifacts.picoctf.net)... 18.165.61.110, 18.165.61.93, 18.165.61.111, ...
-Connecting to artifacts.picoctf.net (artifacts.picoctf.net)|18.165.61.110|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 47534528 (45M) [application/octet-stream]
-Saving to: ‘disk.flag.img.gz’
-
-disk.flag.img.gz                                           100%[======================================================================================================================================>]  45.33M  4.05MB/s    in 12s     
-
-2023-10-22 09:51:40 (3.74 MB/s) - ‘disk.flag.img.gz’ saved [47534528/47534528]
-
-```
 
 unzip the image and see partitions with mmls
 
