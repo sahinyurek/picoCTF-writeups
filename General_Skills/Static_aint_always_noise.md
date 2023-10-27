@@ -108,7 +108,7 @@ Any strings found in static have been written to static.ltdis.strings.txt with f
    196e .comment                                                                                      
 ```
 
-You can find it here manually but there is also an alternative solution doing the same thing with strings.
+You can then find it there manually but there is also an alternative solution doing the same thing with strings.
 
 ```shell
 ┌──(xodzk㉿kali)-[~]
