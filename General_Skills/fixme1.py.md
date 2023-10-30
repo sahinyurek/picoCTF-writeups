@@ -1,5 +1,8 @@
 
 
+<img width="610" alt="fixme1 py_Description" src="https://github.com/sahinyurek/picoCTF-writeups/assets/62119201/3342bb58-30a3-4695-8cff-5bd483d27550">
+
+
 
 Run it once to get the error message.
 
