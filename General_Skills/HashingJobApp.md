@@ -27,7 +27,7 @@ picoCTF{4ppl1c4710n_r3c31v3d_bf2ceb02}
 
 ```
 
-Using md5sum without arguments to give the input directly from the shell. Press Ctrl + D twice to mark the end of file.
+Using md5sum without arguments to give the input directly from the shell. Press Ctrl + D twice to mark the end.
 
 ```shell
 ┌──(xodzk㉿kali)-[~]
