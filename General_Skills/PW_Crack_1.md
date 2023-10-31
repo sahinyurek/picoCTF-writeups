@@ -10,8 +10,7 @@ The password checker asks for a password.
 Please enter correct password for flag: 
 ```
 
-We look at what is in python code to find out how the check is actually made.
-We can see it is 691d here 
+We look at what is in python code to find out how the check is actually done. We can see it is 691d here 
 ```python
 if( user_pw == "691d"):
 ```
