@@ -19,7 +19,7 @@ SyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
 
 <img width="1239" alt="fixme2 py_1" src="https://github.com/sahinyurek/picoCTF-writeups/assets/62119201/7ff65d99-fdfe-4272-bf55-9561d28cc8c7">
 
-Add one more equals sign after if to make it a comparison.
+Add one more equals sign after if flag to make it a comparison.
 
 ```shell
 ┌──(xodzk㉿kali)-[~]
