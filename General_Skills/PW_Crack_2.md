@@ -2,7 +2,7 @@
 <img width="610" alt="PW_Crack2_Description" src="https://github.com/sahinyurek/picoCTF-writeups/assets/62119201/818cd73c-c1df-41bb-b9df-e227ed1dd14d">
 
 
-level2.py checks for user_pw, we can see what it is in the code it is in hex. Convert them to characters to find the password.
+level2.py checks for user_pw, we can see what it is in the code in hex. Convert them to characters to find the password.
 
 ```python
 ### THIS FUNCTION WILL NOT HELP YOU FIND THE FLAG --LT ########################
