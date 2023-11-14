@@ -4,7 +4,7 @@ This is a rockstar program and the key thing to understand is Poetic Number Lite
 
 <img width="674" alt="1" src="https://github.com/sahinyurek/picoCTF-writeups/assets/62119201/822f398b-a11b-4338-9bde-295b2316eb8a">
 
-Listen to is where the input is being asked and If makes the comparison. So we need to know the value of the_music and Music. I solved this by modifying the lyrics so that the if comparison is always true instead.
+Listen to is where the input is being asked and If makes the comparison. So we need to know the value of the_music and Music. I solved this by modifying the lyrics so that the if comparison is always true instead. You could also just remove the if and else lines.
 
 The original lyrics was:
 
