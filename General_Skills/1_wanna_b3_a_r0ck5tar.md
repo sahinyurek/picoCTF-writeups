@@ -1,6 +1,6 @@
 <img width="605" alt="1_wanna_b3_a_r0ck5tar_Description" src="https://github.com/sahinyurek/picoCTF-writeups/assets/62119201/bc761535-99a2-4da2-a7df-05946e3f72b0">
 
-This is a rockstar program and the key thing to understand is Poetic Number Literals in rockstar docs but necessary.
+This is a rockstar program and the key thing to understand is Poetic Number Literals in rockstar docs but it is not really necessary.
 
 <img width="674" alt="1" src="https://github.com/sahinyurek/picoCTF-writeups/assets/62119201/822f398b-a11b-4338-9bde-295b2316eb8a">
 
